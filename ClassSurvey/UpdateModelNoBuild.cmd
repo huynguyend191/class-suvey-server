@@ -1,0 +1,1 @@
+﻿dotnet ef dbcontext scaffold  "data source=den1.mssql7.gear.host;initial catalog=ClassSurvey1;persist security info=True;user id=classsurvey1;password=Ru70jAM_J!5M;multipleactiveresultsets=True;" Microsoft.EntityFrameworkCore.SqlServer  -o Models -f --no-build 
